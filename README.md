@@ -1,2 +1,2 @@
 # HelloWorld
-Take a guess
+Take a second guess
